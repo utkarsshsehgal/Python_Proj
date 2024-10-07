@@ -1,3 +1,11 @@
+Project 1
 The Car Management System is a Python-based application that integrates with an SQL database to efficiently manage vehicle information. Using the tkinter library, it offers a user-friendly graphical interface for easy navigation. 
 The system stores comprehensive details such as vehicle make, model, year, registration information, and maintenance records. Users can effortlessly add, update, or delete vehicle entries, as well as query the database for specific information. The project ensures data integrity and security through proper handling of SQL queries and user inputs. 
 It enhances productivity by streamlining tasks associated with vehicle management, making it ideal for both personal and organizational use
+
+Project 2
+The project aims to understand customer purchasing behavior using two main datasets: purchase data and transaction data. Python was employed extensively throughout the analysis, leveraging its powerful libraries for data manipulation, analysis, and visualization.
+The process begins by merging these datasets and checking for missing values using pandas, a popular data manipulation library. Subsequently, the project identifies outliers in purchase values through statistical methods and engineers a new feature by calculating the pack size. This feature enhancement helps in gaining a deeper understanding of purchasing patterns.
+Using Python, the project groups customers based on demographic and segmentation data, providing insights into different customer segments. Visualization libraries such as Matplotlib and Seaborn are utilized to visualize spending distributions across various customer segments and to analyze brand preferences among these segments.
+Finally, the project identifies the top-selling products based on quantity sold by utilizing data aggregation techniques. Overall, the insights derived from this analysis, powered by Python, aid businesses in tailoring their strategies to effectively meet customer needs.
+
