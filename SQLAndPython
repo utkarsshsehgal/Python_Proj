@@ -1,0 +1,3 @@
+The Car Management System is a Python-based application that integrates with an SQL database to efficiently manage vehicle information. Using the tkinter library, it offers a user-friendly graphical interface for easy navigation. 
+The system stores comprehensive details such as vehicle make, model, year, registration information, and maintenance records. Users can effortlessly add, update, or delete vehicle entries, as well as query the database for specific information. The project ensures data integrity and security through proper handling of SQL queries and user inputs. 
+It enhances productivity by streamlining tasks associated with vehicle management, making it ideal for both personal and organizational use
